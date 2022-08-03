@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SuryabhanRana
-- 👀 I’m interested in ..
+
 # suryabhan rana
 
 
