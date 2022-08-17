@@ -32,7 +32,10 @@ You can click the Preview link to take a look at your changes.
 <code>* [THE SPARKS FOUNDATION NETWORK] [Business Analytics and Data Science Intern]</code>
   
   
-<code>* [Accenture Virtual Internship] [Data Analytics Intern]</code>      
+<code>* [Accenture Virtual Internship] [Data Analytics Intern]</code>   
+
+
+<code>* [TATA  Virtual Internship] [Data Visualization Intern]</code>
   
 
 
