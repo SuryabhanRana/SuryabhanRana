@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  
 ## 😊: Hey Everyone <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="60px"> I'm Suryabhan Rana 
 
-/*[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranasurya/)*/
+
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuryabhanRana)
 
 
@@ -58,8 +58,7 @@ You can click the Preview link to take a look at your changes.
   
   
 ## Contact me via:
-
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ranasurya/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/SuryabhanRana)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="60">](https://medium.com/@suryabhanrana981)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:suryabhanrana981@gmail.com)
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/SuryabhanRana)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="60">](https://medium.com/@suryabhanrana981)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:suryabhanrana981@gmail.com)
 
 <p align="center">
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478ad5hxu2rar4hkruia6uq8k8hzv6exvvan27clsd&rid=giphy.gif&ct=g" width="880">
