@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  
 ## 😊: Hey Everyone <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="60px"> I'm Suryabhan Rana 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranasurya/)
+/*[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranasurya/)*/
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuryabhanRana)
 
 
@@ -22,21 +22,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<code>git commit -m "Hello, I'm interested in working as data analyst / business analyst"
+<code>git commit -m "Hello, I'm interested in working as software developer/web developer"
 
   
   
   
 
-## Internships and trainings 💻: 
-<code>* [THE SPARKS FOUNDATION NETWORK] [Business Analytics and Data Science Intern]</code>
-  
-  
-<code>* [Accenture Virtual Internship] [Data Analytics Intern]</code>   
 
-
-<code>* [TATA  Virtual Internship] [Data Visualization Intern]</code>
-  
 
 
 
